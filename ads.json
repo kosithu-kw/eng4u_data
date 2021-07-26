@@ -2,5 +2,7 @@
     "banner":"ca-app-pub-3940256099942544/6300978111",
     "int":"ca-app-pub-9618108930385944/2682161903",
     "showBanner":"true",
-    "showInter":"true"
+    "showInter":"true",
+    "testBanner": "ca-app-pub-3940256099942544/6300978111",
+    "testInter":"ca-app-pub-3940256099942544/1033173712"
 }
