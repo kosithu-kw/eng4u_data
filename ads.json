@@ -1,8 +1,7 @@
 {
-    "banner":"ca-app-pub-3940256099942544/6300978111",
+    "banner":"ca-app-pub-9618108930385944/7351140439",
     "int":"ca-app-pub-9618108930385944/2682161903",
     "showBanner":"true",
-    "showInter":"true",
-    "testBanner": "ca-app-pub-3940256099942544/6300978111",
-    "testInter":"ca-app-pub-3940256099942544/1033173712"
+    "showInter":"true"
+
 }
