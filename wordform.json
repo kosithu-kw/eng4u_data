@@ -1,0 +1,37 @@
+[
+    {
+        "mm":"ချေးငှားသည်",
+        "eng_v1":"borrow",
+        "eng_v2":"borrowed",
+        "eng_v3":"borrowed",
+        "enb_ving":"borrowing"
+    },
+    {
+        "mm":"ဝယ်သည်",
+        "eng_v1":"buy",
+        "eng_v2":"bought",
+        "eng_v3":"bought",
+        "eng_ving":"buying"
+    },
+    {
+        "mm":"မှုတ်သည်",
+        "eng_v1":"blow",
+        "eng_v2":"blew",
+        "eng_v3":"blown",
+        "eng_ving":"blowing"
+    },
+    {
+        "mm":"တည်ဆောက်သည်",
+        "eng_v1":"build",
+        "eng_v2":"built",
+        "eng_v3":"built",
+        "eng_ving":"building"
+    },
+    {
+        "mm":"တက်သည်",
+        "eng_v1":"climg",
+        "eng_v2":"climbed",
+        "eng_v3":"climbed",
+        "enb_ving":"climbing"
+    }
+]
